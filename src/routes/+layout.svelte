@@ -1,3 +1,3 @@
-<div class=" w-full h-screen bg-[#0d0d0d]">
+<div class=" w-full h-screen">
 	<slot />
 </div>
